@@ -6,7 +6,7 @@ Projeto construído como exercício do curso da B7web
 
 ![Preview](./.github/Preview.png)
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://rafael-damasceno.github.io/Clima/)
 
 ## Tecnologias:
 
